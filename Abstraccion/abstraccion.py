@@ -21,7 +21,6 @@ class Lavadora:
     def _centrifugar(self):
         print('Centrifugando la ropa')
 
-
 if __name__ == '__main__':
     lavadora = Lavadora()
     lavadora.lavar()
