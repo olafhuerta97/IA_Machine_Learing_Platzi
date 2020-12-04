@@ -2,7 +2,8 @@ from bokeh.plotting import figure, output_file, show
 
 #como ejecutar:
 #entrar a la carpeta y activar el enviroment
-#source env/Scripts/activate
+#en windows: source env/Scripts/activate
+# en mac : source env/bin/activate
 
 if __name__ == '__main__':
     output_file('graficado_simple.html')
