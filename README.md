@@ -1,2 +1,2 @@
 # Curso_POO_Algortimos_py
-Este es un repositorio de mi curso de platzi de python orientado a objetos
+This is a repository that was used in my Platzi course of python algorithms and object oriented programming
