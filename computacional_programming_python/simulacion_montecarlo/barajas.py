@@ -42,7 +42,7 @@ def main(tamano_mano, intentos):
 
 
 if __name__ == '__main__':
-    tamano_mano = int(input('De cuantas barajas sera la mano: '))
-    intentos = int(input('Cuantos intentos para calcular la probabilidad: '))
-
-    main(tamano_mano, intentos)
+    #tamano_mano = int(input('De cuantas barajas sera la mano: '))
+    #intentos = int(input('Cuantos intentos para calcular la probabilidad: '))
+    random.randint(3,4)
+    #main(tamano_mano, intentos)
